@@ -1,4 +1,4 @@
-# Projet-BI-2 : Analyse des Dépenses IT
+# Projet-BI-4 : Analyse des Dépenses IT
 
 ## 1. Contexte du Projet
 Ce projet vise à analyser les dépenses IT d'une organisation sur une période donnée.  
